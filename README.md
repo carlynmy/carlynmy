@@ -13,7 +13,6 @@
 
 ---
 
-
 ### About me
 
 Hello everyone! My name is Maksim Teplyakov. I am a Intern C++ developer. 
