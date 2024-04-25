@@ -39,16 +39,6 @@ Hello everyone! My name is Maksim Teplyakov. I am a Intern C++ developer.
 
 ---
 
-### Languages Stats
 
-<table>
-  <tr>
-    <td>
-      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=carlymy&layout=compact&theme=vision-friendly-dark" />
-    </td>
-  </tr>
-</table>
 
----
-
-###### Readme.md v. 1.0.0. Update from 05.03.2024
+###### Readme.md v. 1.0.1. Update from 25.05.2024
